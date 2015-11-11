@@ -1,7 +1,7 @@
 adder
 =====
 
-Somador
+Somador em Verilog.
 
 ====
 Feito por: Luís Felipe Vieira Silva
